@@ -44,7 +44,7 @@
             android:text="name" />
 
         <Button
-            android:id="@+id/blog"
+            android:id="@+id/blogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="onlog"
